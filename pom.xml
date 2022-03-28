@@ -96,13 +96,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url> http://3.92.192.216:8081/repository/sephora-master-release/</url>
+	      <url> http://54.175.134.190:8081/repository/facebk-master-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url> http://3.92.192.216:8081/repository/sephora-master-snapshot/</url>
+	      <url> http://54.175.134.190:8081/repository/facebook-master-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
